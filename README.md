@@ -1,4 +1,4 @@
-<img src="https://github.com/SobiyaS0002/your-repo-name/blob/main/banner.png" alt="Sobiya's Banner" width="100%">
+<img src="https://raw.githubusercontent.com/SobiyaS0002/SobiyaS0002/refs/heads/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png" alt="Sobiya's Banner" width="100%">
 
 
 # Hi there, I'm Sobiya 👋 
