@@ -1,7 +1,6 @@
 <img src="https://github.com/SobiyaS0002/your-repo-name/blob/main/banner.png" alt="Sobiya's Banner" width="100%">
 
 
-
 # Hi there, I'm Sobiya 👋 
 
 
